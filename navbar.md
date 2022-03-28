@@ -1,3 +1,4 @@
 - Translations
   - [:de: Deutsch](/de-de/)
   - [:us: English](/en-en/)
+  - [:cn: 简体中文](/zh-cn/)
